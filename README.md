@@ -1,0 +1,1 @@
+# Task07-Python-Image-Resize
